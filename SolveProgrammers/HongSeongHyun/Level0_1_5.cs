@@ -12,6 +12,7 @@ namespace SolveProgrammers.HongSeongHyun
 		{
 			int result = num1 % num2;
 			return result;
+			//1_5 풀이
 		}
 	}
 }
