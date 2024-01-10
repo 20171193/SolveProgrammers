@@ -2,8 +2,6 @@
 
 public class Class1
 {
-	public Class1()
-	{
         // 양꼬치
 
         public class Solution
@@ -20,4 +18,4 @@ public class Class1
         }
     }
 }
-}
+
