@@ -1,9 +1,8 @@
 ﻿using System;
 
-public class Class1
+public class Class3
 {
-	public Class1()
-	{
+
         // 배열의 평균값
 
         public class Solution
@@ -21,4 +20,4 @@ public class Class1
         }
     }
 }
-}
+
