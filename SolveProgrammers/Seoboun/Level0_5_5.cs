@@ -14,7 +14,7 @@ namespace SolveProgrammers.Seoboun
             float[] mean = new float[score.GetLength(0)];
             int rank;
 
-            // 평균 계산
+            // 각각의 평균 계산
             for (int i = 0; i < score.GetLength(0); i++)
             {
                 mean[i] = (score[i, 0] + score[i, 1]) / 2.0f;
