@@ -8,9 +8,6 @@ namespace SolveProgrammers.NewFolder
 {
 	internal class Level0_1_2
 	{
-		public int solution(int age)
-		{
-			int result = 2022 - age + 1;
-			return result;
-		}
+		
+	}
 }
